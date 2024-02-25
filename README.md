@@ -19,7 +19,7 @@ for default values
 host=8.8.8.8 count=50 timeout=5 delay=0.2 packet_size=56 res=16
 ```
 
-__# - two packets
-* - one packet__
+**# - two packets
+* - one packet**
 
 <img width="252" alt="image" src="https://github.com/Stachu1/NetworkTester/assets/77758413/c7b6b0d6-9201-4682-bdf2-c64e831b72fc">
