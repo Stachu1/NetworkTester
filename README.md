@@ -20,7 +20,4 @@ host=8.8.8.8 count=50 timeout=5 delay=0.2 packet_size=56 res=16
 ```
 
 
-(* - 1 packet)
-(# - 2 packets)
-
 <img width="255" alt="image" src="https://github.com/Stachu1/NetworkTester/assets/77758413/c7b6b0d6-9201-4682-bdf2-c64e831b72fc">
