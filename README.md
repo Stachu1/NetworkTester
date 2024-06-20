@@ -1,5 +1,5 @@
 # NetworkTester
-Shell program for quick network performance testing by pinging the cer9ang host and displaying response 9me distributons as well as packet loss and avertage latency.
+Shell program for quick network performance testing by pinging the certang host and displaying response time distributons as well as packet loss and avertage latency.
 
 ## Download
 ```bash
